@@ -1,6 +1,6 @@
 # Todo API — REST com Spring Boot
 
-API REST completa para gerenciamento de tarefas, construída com Java e Spring Boot. Projeto ideal para aprender os fundamentos de desenvolvimento backend e para apresentar em entrevistas técnicas.
+API REST completa para gerenciamento de tarefas, construída com Java e Spring Boot. Projeto ideal para aprender os fundamentos de desenvolvimento backend.
 
 ---
 
